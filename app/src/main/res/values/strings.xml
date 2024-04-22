@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Course Registration Waiting List</string>
+    <string name="title">CSIT551 Waitlist</string>
+    <string name="created">Created by: Shreya Ambati</string>
+    <string name="none_msg">No Students</string>
+    <string name="new_option">New Student</string>
+    <string name="set_option">Set Priority for Student</string>
+    <string name="edit_label">Edit Student Details</string>
+    <string name="enter_name">Enter Student Name</string>
+    <string name="enter_priority">Enter Priority (Graduate/4th Year/3rd Year/2nd Year/1st Year)</string>
+</resources>
